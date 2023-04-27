@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Project
+## <center>About Project </center>
 
 ## Requirements
 (Please use PHP. You can use any PHP framework of your choice that would speed up development. Laravel is preferred.)
