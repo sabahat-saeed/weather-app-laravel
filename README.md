@@ -7,21 +7,44 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Requirements
+(Please use PHP. You can use any PHP framework of your choice that would speed up development. Laravel is preferred.)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+You should grab weather data for a given list of longitudes and latitudes scheduled every 2 minutes.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Name
+### Latitude
+### Longitude
+### Berlin Mitte
+### 52.520008
+### 13.404954
+### Berlin Friedrichshain
+### 52.515816
+### 13.454293
 
-## Learning Laravel
+## For this purpose you should use the following API: https://openweathermap.org/current
+
+Your license key is: 
+	
+We need to store the following data:
+
+### Time
+### Name
+### Latitude
+### Longitude
+### temp (in Celsius)
+### pressure
+### humidity
+### temp_min
+### temp_max
+
+
+
+
+
+# Solution
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
