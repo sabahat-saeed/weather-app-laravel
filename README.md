@@ -14,15 +14,15 @@
 
 You should grab weather data for a given list of longitudes and latitudes scheduled every 2 minutes.
 
-### Name
-### Latitude
-### Longitude
-### Berlin Mitte
-### 52.520008
-### 13.404954
-### Berlin Friedrichshain
-### 52.515816
-### 13.454293
+- Name
+- Latitude
+- Longitude
+- Berlin Mitte
+- 52.520008
+- 13.404954
+- Berlin Friedrichshain
+- 52.515816
+- 13.454293
 
 ## For this purpose you should use the following API: https://openweathermap.org/current
 
@@ -30,15 +30,15 @@ Your license key is:
 	
 We need to store the following data:
 
-### Time
-### Name
-### Latitude
-### Longitude
-### temp (in Celsius)
-### pressure
-### humidity
-### temp_min
-### temp_max
+- Time
+- Name
+- Latitude
+- Longitude
+- temp (in Celsius)
+- pressure
+- humidity
+- temp_min
+- temp_max
 
 
 
