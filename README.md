@@ -10,9 +10,8 @@
 ## <center>About Project </center>
 
 ## Requirements
-(Please use PHP. You can use any PHP framework of your choice that would speed up development. Laravel is preferred.)
 
-You should grab weather data for a given list of longitudes and latitudes scheduled every 2 minutes.
+Laravel Project to grab weather data for a given list of longitudes and latitudes scheduled every 2 minutes.
 
 - Name
 - Latitude
